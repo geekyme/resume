@@ -1,6 +1,18 @@
 ## My resume
 
-POC a tool like https://jsonresume.org/ for maintaining my resume
+POC a tool like https://jsonresume.org/ for maintaining my resume.
+
+pdf generation:
+
+```
+npm run pdf
+```
+
+html generation:
+
+```
+npm run html
+```
 
 ### My conclusion so far
 
