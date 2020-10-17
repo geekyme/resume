@@ -1,0 +1,182 @@
+{
+  "$schema": "https://json.schemastore.org/resume",
+  "basics": {
+    "name": "Shawn Lim",
+    "label": "Principal Software Engineer / Architect | Building large-scale systems & mentoring engineers",
+    "image": "",
+    "email": "shawn@storyline.io",
+    "phone": "",
+    "url": "",
+    "summary": "Background in business and entrepreneurship. I am equipped with heavy technical knowledge in frontend, backend & infrastructure. Because of this unique intersection between business & software engineering, I can easily influence and win the trust of people from both sides. \n\nMy story began with a startup I founded to make writing more accessible and fun for everyone. Learning how to design and scale this website brought me towards a career in software engineering, a craft I truly enjoy up till this day. I was engineer #4 in Carousell (a Singapore unicorn company), built and scaled their web application from Singapore to the rest of SEA. Later on, I built from scratch high profile projects in several large companies. Currently, I am a Software Architect in Traveloka (an Indonesian unicorn) with organizational impact of 100+ engineers across multiple domains. \n\nPeople who have worked with me can usually spot my passion in honing my craft. While my primary interest is in designing systems that scale, I also enjoy mentoring other engineers and helping them expand their skills. Read more about what others say in my recommendations section.\n\nOn the side, I experiment with ideas and start my own projects. Many of which mainly serve to push myself beyond what I know. I also enjoy building interesting things in the open source world. See https://github.com/geekyme for some of my contributions.\n\nI share regularly about topics about Software Engineering. If you find my material useful, buy me a coffee! -> https://www.buymeacoffee.com/shawnlim\n\nSpecialties:\n- Application: Web Frontend, JavaScript, Elm, ReactJS, Node.js, Java, Golang, Haskell, Rust\n- DevOps: Docker, Scripting, Containerization, CI / CD best practices, AWS\n- Domains: Banking, InsurTech, FinTech, B2B, E-Commerce, Travel",
+    "location": {
+      "address": "Singapore",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shawn-lim-0a307550",
+        "url": "https://www.linkedin.com/in/shawn-lim-0a307550/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Traveloka",
+      "endDate": "",
+      "highlights": [],
+      "position": "Principal Software Engineer / Architect, Transport",
+      "startDate": "2020-04-30",
+      "summary": "Traveloka Transport domain includes Flight (the first product of Traveloka) and Ground Transport (Bus, Train, Airport Transfer, Car Rentals)\n\n● Principal Architect for the Transport business unit, which span more than 10 engineering teams. \n\n● Drive several initiatives to advance and reengineer the legacy system architecture to accommodate future features and capabilities while keeping compatibility.\n\n● Provide strategic and tactical direction when it comes to technical hygiene. This involves the correct level of tradeoff analysis to help engineering teams meet business requirements and the long terms technical vision.\n\n● Provide company-wide technical mentorship to spread best practices and help engineers to improve the systems we work on. This includes guiding design reviews, revamping systems, reviewing existing architecture, organizing engineering workshops, creating software architecture interest groups etc.\n\n● Reporting directly to CTO and collaborating with engineers, engineering managers and product managers across 3 regions - Singapore, India, Indonesia.\n\n\nTechnologies used: Java, React.js, React Native, Karate DSL, AWS, Terraform",
+      "url": ""
+    },
+    {
+      "name": "Traveloka",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "position": "Principal Software Engineer / Architect, Financial Services",
+      "startDate": "2019-06-30",
+      "summary": "Traveloka Financial Services domain is a suite of products that improve the lifestyle of Traveloka users via better insurance, flexible loans and payments.\n\n● Principal Architect for an insurance team of 10 engineers. Built a platform that serve multiple channels via APIs. This includes whitelabel pages to sell digital insurance, cross-selling to existing traveloka products, and partnerships with other companies.\n\n● Define and drive the technical vision of how InsurTech systems are built. Rapidly increase the velocity of insurance product development by designing a new way to build insurance integrations. Brought insurance development time from months to weeks. \n\n● Create technology roadmaps, and drive the direction of the team and broader audience towards better architectural approaches and best practices.\n\n● Align business and technology goals, such that velocity and reliability can both be achieved with good design / technical hygiene.\n\nTechnologies used: Java, Spring Boot, React.js, React Native, Karate DSL, AWS, Terraform",
+      "url": ""
+    },
+    {
+      "name": "Interview Guru",
+      "endDate": "2019-06-30",
+      "highlights": [],
+      "position": "Founder",
+      "startDate": "2018-10-31",
+      "summary": "● Problem: Engineering managers who don’t have skills in X have to hire many engineers who are good in X. Many recruiters don’t have the skills to do deep technical screening.\n● Solution: Closed the gap by connecting these engineering managers with software engineering experts. These experts will help to ask questions that the managers won’t think of asking.\n● Revenue making from day 1, securing clients like One Main Financial. Zero development effort, everything automated with Google Sheets, Zoom, and Zapier.",
+      "url": ""
+    },
+    {
+      "name": "AXA",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "position": "Tech Lead / Software Architect",
+      "startDate": "2018-05-31",
+      "summary": "Built an insurance-as-a-service (IAAS) platform, transforming AXA to sell insurance products via APIs.\n\n● Set engineering standards, structure and collaboration norms for a team of 30+ engineers. E.g., Test coverage expectations, application integration tests with Cypress, audit and scanning requirements. \n\n● Drive and review architectural decisions and proposals. E.g., setting up a central Identity Provider and an SSO gateway, and central monitoring tools for all microservices.\n\n● Manage the delivery of SG-React-components, a project to maximize reusability and consistency of UI components. This forms the foundation of several other UI libraries we built in house, like FormBuilder, and SG-React-widgets. This UI library is widely used in across all of AXA Singapore websites (E-commerce, Corporate Website, Claims, etc.)\n\n● Collaborate with Paris office to launch critical projects like the AXA Affiliate Platform, which is powered by the Insurance-As-A-Service and OAuth APIs developed by my team.\n\n● Coordinate internal teams to enable Continuous Integration / Continuous Deployment.\n\n● Review engineering quality and mentor engineers via methods like pair programming, code reviewing, 1-1s.\n\n● Improve the hiring pipeline to add greater structure and effectiveness of interviews. Onboard and coach new hires to get up to speed with our technology stack and standards.\n\n● Foster a strong knowledge-sharing culture by organizing bi-weekly developer talks.\n\n\nTechnologies used: Node.js, React.js, Next.js, Cypress, Webpack, Kubernetes / OpenShift, Jenkins, MongoDB, RabbitMQ, etc.",
+      "url": ""
+    },
+    {
+      "name": "Standard Chartered Bank",
+      "endDate": "2018-04-30",
+      "highlights": [],
+      "position": "Full Stack Engineer (Process Automation & Efficiency)",
+      "startDate": "2017-08-31",
+      "summary": "Built several data-Intensive workflow applications for Risk Analysts to produce / transform reports.\n\n● Lead the team in efforts to innovate on new ways of developing the user interface, in particular moving the team away from compiled desktop applications to Web Applications running on Elm.\n\n● Design and develop scalable backend systems using Haskell / Functional Programming.\n\n● Building scripts to improve developer productivity using Batch and Golang.\n\n● Identify tedious processes within the bank (e.g., manually generating reports) and develop tools for Risk Managers to automate their workflow. One of these initiatives include a file sharing application that complies with tight security measures and works well with in-house technologies / workflows.\n\n● Test Driven Development using a combination of compile time check, property type checking, and acceptance criteria testing. We designed and built our own test runner that spits out a report describing test run status in Cucumber syntax. This allows non-tech stakeholders to easily see whether all features are working.\n\nTechnologies used - Haskell, Elm, JavaScript, Node.js, Golang, SQL, Batch, Bash.",
+      "url": ""
+    },
+    {
+      "name": "Zendesk",
+      "endDate": "2017-08-31",
+      "highlights": [],
+      "position": "Software Engineer (Frontend Lead)",
+      "startDate": "2016-01-31",
+      "summary": "Built a brand new product in the Zendesk Suite called Message. Zendesk Message is a web application that allows support agents to respond to customer queries on many popular social media messaging channels (Facebook, Twitter, etc.)\n\n● Designed and lead the frontend development from scratch. Grew the team to 4 web engineers before I left.\n\n● Pioneered the move from JXML (an in-house framework) to React to enable frontend engineers in the Singapore Office to work in a more productive manner. Zendesk Message was one of the largest React.js projects in the company. \n\n● Writing and maintaining frontend libraries. Notable achievements include a Virtual Scrolling library for dynamic chat elements and a Firebase-inspired data explorer to view the state tree, modified in real time, built in Elm.\n\n● Ensuring engineering excellence in the team by promoting code linting, documentation, testing and encouraging discussions to happen. This includes cross-country collaborations with platform teams / other products to sync on UI and engineering best practices.\n\n● Technologies used: React, Webpack, CSS Modules, DataNode (in-house data request / update library), Elm.",
+      "url": ""
+    },
+    {
+      "name": "Carousell",
+      "endDate": "2015-12-31",
+      "highlights": [],
+      "position": "Software Engineer (Web Platform Lead)",
+      "startDate": "2014-08-31",
+      "summary": "Carousell is a lifestyle marketplace that makes buying and selling items / services beautifully simple.\n\n● Engineer #4 and first web engineer of Carousell. Pioneered the development of the Carousell Web platform (https://carousell.com) when Carousell’s main business was in mobile. Grew a small team of 3 web developers to manage the web platform.\n\n● Simplified web development in the company by adopting an \"Isomorphic\" / Universal JavaScript architecture. It solved many challenges with UI development. More information in my article: http://engineering.carousell.com/universal-javascript/ \n\n● Established a culture of quality within the web team by setting up automated linting and testing, workflows for code collaboration, bug fixing guides, and documenting all technical challenges that could be worked on between sprints.\n\n● Automated deployment for the web platform using a combination of Webpack, Gulp, and Salt. This also allowed us to spin up new servers and scale up easily with increased traffic.\n\n● Improved collaboration within the web team by automating the creation of beta sites when a team member is working on his copy of the source code. This allows the team to simultaneously host and test different versions of the website without conflict. \n\n● Internationalised the web application by supporting 4 languages and integrating tools for translators to translate content on Carousell Web.\n\n● Working with designers and developing features to improve the buying and selling experience on the web. We work in an iterative style, solving problems in 2-week sprints.\n\n● Performed basic optimizations on both the front-end code and backend web servers including profiling for memory leaks in JavaScript and rendering time.\n\n● Technologies used: Node.js, React.js, Webpack, Python Flask, Fabric, Salt, Nginx.",
+      "url": ""
+    },
+    {
+      "name": "Storyline.io",
+      "endDate": "2015-01-31",
+      "highlights": [],
+      "position": "Founder",
+      "startDate": "2012-01-31",
+      "summary": "● Flagship product is Storyline - Storyline is a website built for writers of all skill levels to participate in a creative process of writing stories together. Person A starts a story, Person B adds the first line, Person C adds the second line. The process helps writers to beat Writer's Block and showcase their creativity while having fun at the same time.\n\n● Other products: Mosaict, a project management site for students. Won Innovation Award in 2012 to seed funds for other projects.\n\n● Scope of work include customer support, UX / UI design, and product development. Worked with Rocket Internet for growth marketing and SocialMetric for web development.\n\nTechnologies used: JavaScript, Node.js, MeteorJS, MongoDB",
+      "url": ""
+    },
+    {
+      "name": "Rocket Internet SE",
+      "endDate": "2012-08-31",
+      "highlights": [],
+      "position": "Growth Engineer",
+      "startDate": "2012-05-31",
+      "summary": "● E-commerce order management and processes.\n\n● Designed HTML EDMs and applied Responsive Web Design techniques to optimize the look and feel of the EDM on mobile and desktop devices.\n\n● Dispatched EDMs and analysed click-through rates using the Experian Marketing Services (Mail Solution) system.\n\n● Actively engaged online crowd using social media like Pinterest, Twitter and Facebook by posting interesting stories, pictures and product features.\n\n● Organized zero-cost online campaigns through facebook to boost sales and grow the newsletter mailing list to more than 1000 members.\n\n● Proactively designed and built facebook fan-gate applications using current web technologies to engage online target audience.",
+      "url": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Singapore Management University",
+      "area": "Majoring in Strategic Management and Marketing",
+      "studyType": "Bachelor of Business Management",
+      "startDate": "2014",
+      "endDate": "2010",
+      "gpa": "GPA 3.68 (out of 4.00)",
+      "courses": [
+        "Marketing",
+        "Consumer Behavior",
+        "Strategic Brand Management",
+        "Pricing",
+        "Entrepreneurial Finance",
+        "Technological Innovation and Opportunity Identification",
+        "Design Thinking",
+        "International Business"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Golang",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Haskell",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Architecture",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Tomasz Kurczyk",
+      "reference": "Shawn is a truly passionate software engineer striving for delivery of great solutions and products, while still finding time to share his knowledge and experience with others "
+    },
+    {
+      "name": "Mirash Gjolaj",
+      "reference": "I have worked with Shawn closely for almost a year in AXA. His passion for technology and dedication helped to increase the quality of our teams. Always working to improve himself and who's working with him, Shawn is not scared about complexity and has always delivered great solutions finding the best compromise to boost the business value."
+    }
+  ],
+  "projects": []
+}

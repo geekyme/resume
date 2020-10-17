@@ -1,0 +1,17 @@
+{
+  "name": "shawn-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "resume-cli": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "pdf": "npx resume export --format pdf resume.pdf --theme macchiato",
+    "html": "npx resume export --format html public/index.html --theme macchiato"
+  },
+  "author": "",
+  "license": "ISC"
+}
